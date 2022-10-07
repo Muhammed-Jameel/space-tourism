@@ -1,0 +1,5 @@
+export { default as BackgroungCrewDesktop} from '../crew/background-crew-desktop.jpg'
+export { default as Crew1} from '../crew/image-douglas-hurley.webp'
+export { default as Crew2} from '../crew/image-mark-shuttleworth.webp'
+export { default as Crew3} from '../crew/image-victor-glover.webp'
+export {default as Crew4} from '../crew/image-anousheh-ansari.webp'
